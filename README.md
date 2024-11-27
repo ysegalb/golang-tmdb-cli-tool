@@ -1,6 +1,7 @@
 # TMDB CLI Tool
 
 The url for this repository is https://github.com/ysegalb/golang-tmdb-cli-tool
+It solves the roadmap example from https://roadmap.sh/projects/tmdb-cli
 
 A command-line interface tool written in Go that fetches and displays movie information from The Movie Database (TMDB) API.
 
